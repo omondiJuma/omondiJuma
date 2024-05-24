@@ -4,7 +4,7 @@
  
  ✔️INTERESTED IN CYBERSECURITY
  
- ✔ I’m looking to collaborate on statistical analysis with R projects and SQL projects.
+ ✔ I’m looking to collaborate on statistical analysis with R projects and SQL projects. 
  
 
  
